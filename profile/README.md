@@ -1,4 +1,8 @@
 # Welcome to Epimorphics
+
+![Epimorphics-logo_mini1](https://github.com/epimorphics/.github/assets/1565598/cef55b19-3b97-4398-83ec-ed6dfc002120)
+
+
 Connecting data since 2009
 
 ## About
