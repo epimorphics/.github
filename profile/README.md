@@ -1,6 +1,6 @@
 # Welcome to Epimorphics
 
-![Epimorphics-logo_mini1](https://github.com/epimorphics/.github/assets/1565598/cef55b19-3b97-4398-83ec-ed6dfc002120)
+<img width="350" alt="Epimorphics-logo_mini" src="https://github.com/epimorphics/.github/assets/1565598/cef55b19-3b97-4398-83ec-ed6dfc002120">
 
 
 Connecting data since 2009
@@ -21,7 +21,7 @@ For more hands-on data projects you can be assured that our expertise in user-ex
 
 We design, build and run data services, licence technology and provide other related consultancy services.  Our purpose is to help you make the most of your data, creating apps and data visualisations designed to deliver information into the hands of those who need it. Make better business decisions with the insight provided by the new clarity of the existing data.
 
-There are many examples of our work and case studies here: [www.epimorphics.com/projects](https://www.epimorphics.com/projects).
+There are many examples of our work and case studies here: [www.epimorphics.com/projects](https://www.epimorphics.com/projects) and we post `#TechTalks` and other articles on our blog here: [www.epimorphics.com/blog](https://www.epimorphics.com/blog) 
 
 
 ## Contact 
@@ -30,3 +30,6 @@ If you are interested in what we do, want to find out more or want us to work wi
 Epimorphics is also available on the [gov.uk Digital Marketplace (G-Cloud)](https://www.digitalmarketplace.service.gov.uk/g-cloud/search?q=epimorphics).
 
 We can also be found on: [Twitter](https://twitter.com/epimorphics), [LinkedIn](https://www.linkedin.com/company/epimorphics-ltd) and [Mastodon](https://mastodonapp.uk/@epimorphics) 
+
+
+<img width="750" alt="footer" src="https://github.com/epimorphics/.github/assets/1565598/850bda04-fcd2-487d-a01a-565aaf60cc9d">
